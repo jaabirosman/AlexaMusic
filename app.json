@@ -1,7 +1,7 @@
 {
-    "name": "Alexa Music Bot",
+    "name": "Gero Music Bot",
     "description": "Alexa Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/798b7275e58d09ac6b095.jpg",
+    "logo": "https://telegra.ph/file/c018a293d38633056e8a6.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -40,7 +40,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "乛𝘼𝙇𝙀𝙓𝘼🕊⃝🦋⁪⁬",
+        "value": "乛𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓🦋⁪⁬",
         "required": true
       },
       "OWNER_ID": {
@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TheTeamAlexa/AlexaMusic",
+        "value": "https://github.com/jaabirosman/AlexaMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
